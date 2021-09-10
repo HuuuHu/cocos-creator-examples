@@ -14,7 +14,10 @@
   "excluded-modules": [
     "Geom Utils",
     "3D",
-    "3D Primitive"
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
   ],
   "facebook": {
     "appID": "",
@@ -41,5 +44,6 @@
   "use-customize-simulator": false,
   "use-project-simulator-setting": true,
   "assets-sort-type": "name",
-  "start-scene": "030ee62c-e45f-421d-af65-bff00489cb68"
+  "start-scene": "030ee62c-e45f-421d-af65-bff00489cb68",
+  "migrate-history": []
 }
